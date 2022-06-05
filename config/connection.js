@@ -11,6 +11,6 @@ const sequelize = process.env.JAWSDB_URL
         decimalNumbers: true,
       },
     });
-    console.log('Connected to databse')
+    console.log('Connected to database')
 
 module.exports = sequelize;
