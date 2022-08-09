@@ -28,7 +28,6 @@ Use the following command to seed the database:
 ```
 npm run seed
 ```
-
   <br>
 
 ## Usage
